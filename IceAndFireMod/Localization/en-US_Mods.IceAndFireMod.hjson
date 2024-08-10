@@ -1,0 +1,69 @@
+Items: {
+	ApocalypsisSword: {
+		DisplayName: The Sword of the Apocalypse
+		Tooltip: The Sword of the apocalypse. Satisfied is cruel
+	}
+
+	FireBook: {
+		DisplayName: Fire Book
+		Tooltip: The Book of Fire. She's all on fire
+	}
+
+	IceAndFireWhip: {
+		DisplayName: Ice And Fire Whip
+		Tooltip: Ice and flame converged
+	}
+
+	DeathRing: {
+		DisplayName: Death Ring
+		Tooltip: Increase melee damage
+	}
+
+	CosmosSword: {
+		DisplayName: Cosmos Sword
+		Tooltip: ""
+	}
+
+	CosmosSplinter: {
+		DisplayName: Cosmos Splinter
+		Tooltip: ""
+	}
+
+	IceWhip: {
+		Tooltip: ""
+		DisplayName: Ice Whip
+	}
+
+	EctoBow: {
+		Tooltip: ""
+		DisplayName: Ecto Bow
+	}
+
+	GhostPlasm: {
+		Tooltip: ""
+		DisplayName: Ghost Plasm
+	}
+
+	EctoYoyo: {
+		DisplayName: Ecto Yoyo
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	ApocalypsisSwordProjectile.DisplayName: Apocalypsis Sword Projectile
+	FireBookProjectile.DisplayName: Fire Book Projectile
+	IceAndFireWhipProjectile.DisplayName: Ice And Fire Whip Projectile
+	CosmosSwordProjectile.DisplayName: Cosmos Sword Projectile
+	EctoYoyoProjectile.DisplayName: Ecto Yoyo Projectile
+}
+
+NPCs: {
+	IceZombie.DisplayName: Ice Zombie
+	FireZombie.DisplayName: Fire Zombie
+	StrangeFish.DisplayName: Strange Fish
+	MudSlime.DisplayName: Mud Slime
+	CobaltNimbus.DisplayName: Cobalt Nimbus
+	SkeletGhost.DisplayName: Skelet Ghost
+	CosmosDeath.DisplayName: Cosmos Death
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k5MEDKJU9wFopWj3AwJ5ZXwtqDW9+wMT9x05jw7ZV2R27ownybPFqeJ+WP5BqslGsgJfM4ZKQoMmVV2WFNNbZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Динозавр\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\IceAndFireMod\\IceAndFireMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Динозавр\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
